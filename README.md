@@ -1,9 +1,4 @@
-Great! If you're using the Unlicense for your project, you can replace the "License" section in the README.md with the appropriate text. The Unlicense is a public domain dedication, and you can make it explicit in your README.
-
-Here's an updated version of the README.md with the Unlicense:
-
-```markdown
-# SafeGuardAntivirus
+## SafeGuardAntivirus
 
 SafeGuardAntivirus is an open-source antivirus solution with an integrated firewall to provide comprehensive protection against malware threats.
 
