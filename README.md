@@ -15,7 +15,7 @@ SafeGuardAntivirus is an open-source antivirus solution with an integrated firew
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SafeGuardAntivirus.git
+   git clone https://github.com/ChickenWithACrown/SafeGuardAntivirus.git
    cd SafeGuardAntivirus
    ```
 
@@ -34,7 +34,7 @@ SafeGuardAntivirus is an open-source antivirus solution with an integrated firew
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SafeGuardAntivirus.git
+   git clone https://github.com/ChickenWithACrown/SafeGuardAntivirus.git
    cd SafeGuardAntivirus
    ```
 
@@ -57,7 +57,7 @@ SafeGuardAntivirus is an open-source antivirus solution with an integrated firew
 
 Feel free to contribute by opening issues, proposing features, or submitting pull requests. Your contributions are welcome!
 
-## Public Domain Dedication (Unlicense)
+## Public Domain Dedication (Unlicensed)
 
 This project is dedicated to the public domain using the [Unlicense](LICENSE).
 ```
